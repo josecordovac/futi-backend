@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "oauth.datasource.validation-query",
+      "type": "java.lang.String",
+      "description": "Description for oauth.datasource.validation-query."
+    },
+    {
+      "name": "futi.code-validity-time",
+      "type": "java.lang.String",
+      "description": "Description for futi.code-validity-time."
+    }
+  ] }

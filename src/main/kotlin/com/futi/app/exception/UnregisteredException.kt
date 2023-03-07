@@ -1,0 +1,6 @@
+package com.futi.app.exception
+
+import org.springframework.http.HttpStatus
+import org.springframework.web.server.ResponseStatusException
+
+class UnregisteredException : ResponseStatusException(HttpStatus.ACCEPTED)
